@@ -1,4 +1,4 @@
-
+# GPIO output/input, LCD display programming
 
 import RPi.GPIO as GPIO
 import I2C_driver as LCD
