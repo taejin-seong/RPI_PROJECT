@@ -1,3 +1,5 @@
+# SW,LED(PWM),LCD,Accelerometer,Dot Matrix sensor programming
+
 import RPi.GPIO as GPIO   
 import smbus              
 import I2C_driver as LCD  
